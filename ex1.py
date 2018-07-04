@@ -6,4 +6,4 @@ class Service:
 
 pey = Service()
 
-pey.sum(1,1)
+pey.sum(10,10)
