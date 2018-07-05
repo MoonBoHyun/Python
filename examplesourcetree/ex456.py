@@ -6,5 +6,5 @@ def adder(num):
     return result
 
 print(adder(50))
-print(adder(40))
+print(adder(400))
 
